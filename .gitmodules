@@ -1,0 +1,3 @@
+[submodule "learn/fp-book"]
+	path = learn/fp-book
+	url = https://github.com/nkarl/learn.purescript.fp-book
