@@ -1,3 +1,6 @@
 [submodule "learn/fp-book"]
 	path = learn/fp-book
 	url = https://github.com/nkarl/learn.purescript.fp-book
+[submodule "learn/purescript-book"]
+	path = learn/purescript-book
+	url = https://github.com/purescript-contrib/purescript-book
